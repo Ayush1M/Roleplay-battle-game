@@ -7,6 +7,7 @@
       * [Screenshot](#screenshot)
  * [Technologies I Used](#technologies-i-used)
  * [What I Learned](#what-i-learned) 
+ * [Acknowledgement](#acknowledgement)
 
 # Overview of the Project
 This is a dice game which focuses on the concepts of Javascript. 
@@ -34,3 +35,5 @@ This is a dice game which focuses on the concepts of Javascript.
 * Learned about DOM.
 * Learned about event listeners and added functionality by creating a reset and roll button.
 * Learned how to display the score and display the message.
+
+## Acknowledgement
