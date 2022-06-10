@@ -1,4 +1,4 @@
-# Dice Game
+# Roleplay Battle Game
 
 ## Table of Content
 
