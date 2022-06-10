@@ -37,3 +37,4 @@ This is a dice game which focuses on the concepts of Javascript.
 * Learned how to display the score and display the message.
 
 ## Acknowledgement
+   My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
