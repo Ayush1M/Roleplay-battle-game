@@ -12,11 +12,6 @@
 # Overview of the Project
 This is a battle game between wizard and demons using the concepts of vanilla JS.
 
-### Goal of the Project
-* To add two player functionality.
-
-
-
 ## Screenshot
 
 #### Desktop
