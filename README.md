@@ -15,8 +15,6 @@ This is a battle game between wizard and demons using the concepts of vanilla JS
 
 #### Desktop
 
-![](./images/passwordgeneratordesktop.png)
-
 
 ## Technologies I Used
 * Semantic HTML5
