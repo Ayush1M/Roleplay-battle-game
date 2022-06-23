@@ -3,7 +3,6 @@
 ## Table of Content
 
  * [Overview of the Project](#overview-of-the-project)
-      * [Goal of the project](#goal-of-the-project)
       * [Screenshot](#screenshot)
  * [Technologies I Used](#technologies-i-used)
  * [What I Learned](#what-i-learned) 
