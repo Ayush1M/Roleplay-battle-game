@@ -10,14 +10,12 @@
  * [Acknowledgement](#acknowledgement)
 
 # Overview of the Project
-This is a dice game which focuses on the concepts of Javascript. 
+This is a battle game between wizard and demons using the concepts of vanilla JS.
 
 ### Goal of the Project
 * To add two player functionality.
 * To add a scoreboard to display the dice score.
-* Add a Roll button to roll the dice.
-* Add a reset button to restart the game.
-* Add message to show which player won or the game is tied.
+
 
 ## Screenshot
 
