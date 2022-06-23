@@ -29,6 +29,10 @@ This is a battle game between wizard and demons using the concepts of vanilla JS
 * Learned about join method which act as a sperator.
 * Learned how to return a function inside a function.
 * Learned about fill method.
+* Learned about constructor functions.
+* Learned about this keyword.
+* Learned how to import/export to handle the data in a more clean way.
+* learned about object.assign
 
 ## Acknowledgement
    My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
