@@ -32,7 +32,7 @@ This is a battle game between wizard and demons using the concepts of vanilla JS
 * Learned about constructor functions.
 * Learned about this keyword.
 * Learned how to import/export to handle the data in a more clean way.
-* learned about object.assign
+* Learned about object.assign
 
 ## Acknowledgement
    My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
