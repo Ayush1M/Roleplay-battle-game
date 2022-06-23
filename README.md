@@ -14,7 +14,7 @@ This is a battle game between wizard and demons using the concepts of vanilla JS
 
 ### Goal of the Project
 * To add two player functionality.
-* To add a scoreboard to display the dice score.
+
 
 
 ## Screenshot
