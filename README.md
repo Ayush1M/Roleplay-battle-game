@@ -25,8 +25,10 @@ This is a battle game between wizard and demons using the concepts of vanilla JS
 
 ## What I Learned
 * Learned about DOM.
-* Learned about event listeners and added functionality by creating a reset and roll button.
-* Learned how to display the score and display the message.
+* Learned about map method.
+* Learned about join method which act as a sperator.
+* Learned how to return a function inside a function.
+* Learned about fill method.
 
 ## Acknowledgement
    My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
