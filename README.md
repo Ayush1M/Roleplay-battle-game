@@ -1,16 +1,40 @@
-# title(){return this.options.title||this.options.name}
+# Roleplay Battle Game
 
-## Supporting Scrimba
+## Table of Content
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+ * [Overview of the Project](#overview-of-the-project)
+      * [Screenshot](#screenshot)
+ * [Technologies I Used](#technologies-i-used)
+ * [What I Learned](#what-i-learned) 
+ * [Acknowledgement](#acknowledgement)
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+# Overview of the Project
+This is a battle game between wizard and demons using the concepts of vanilla JS.
 
-	It would also mean the world to us if you share the courses.  
+## Screenshot
 
-Happy Coding!
+#### Desktop
+
+
+## Technologies I Used
+* Semantic HTML5
+* CSS
+* Vanilla Javascript
+
+## What I Learned
+* Learned about DOM.
+* Learned about map method.
+* Learned about join method which act as a sperator.
+* Learned how to return a function inside a function.
+* Learned about fill method.
+* Learned about constructor functions.
+* Learned about this keyword.
+* Learned how to import/export to handle the data in a more clean way.
+* Learned about object.assign
+* Learned about reduce method.
+* Learned about ternary operators.
+* Learned about arrow functions.
+* Learned about setTimeout method.
+
+## Acknowledgement
+   My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
