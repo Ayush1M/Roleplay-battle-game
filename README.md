@@ -13,7 +13,7 @@ This is a battle game between wizard and demons using the concepts of vanilla JS
 
 ## Screenshot
 
-#### Desktop
+![](./images/gameimage.png)
 
 
 ## Technologies I Used
