@@ -15,6 +15,13 @@ This is a battle game between wizard and demons using the concepts of vanilla JS
 
 ![](./images/gameimage.png)
 
+![](./images/battlegame1.png)
+
+![](./images/battlegame2.png)
+
+![](./images/battlegame3.png)
+
+![](./images/battlegame4.png)
 
 ## Technologies I Used
 * Semantic HTML5
