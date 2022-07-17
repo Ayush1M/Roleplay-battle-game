@@ -6,8 +6,7 @@
       * [Screenshot](#screenshot)
  * [Technologies I Used](#technologies-i-used)
  * [What I Learned](#what-i-learned) 
- * [Acknowledgement](#acknowledgement)
-
+ 
 # Overview of the Project
 This is a battle game between wizard and demons using the concepts of vanilla JS.
 
@@ -42,6 +41,3 @@ This is a battle game between wizard and demons using the concepts of vanilla JS
 * Learned about ternary operators.
 * Learned about arrow functions.
 * Learned about setTimeout method.
-
-## Acknowledgement
-   My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
