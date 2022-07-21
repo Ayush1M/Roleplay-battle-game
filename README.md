@@ -41,3 +41,4 @@ This is a battle game between wizard and demons using the concepts of vanilla JS
 * Learned about ternary operators.
 * Learned about arrow functions.
 * Learned about setTimeout method.
+* Learned about classes.
