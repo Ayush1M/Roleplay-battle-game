@@ -8,7 +8,7 @@
  * [What I Learned](#what-i-learned) 
  
 # Overview of the Project
-This is a battle game between wizard and demons using the concepts of vanilla JS.
+This is a battle game between wizard and demons using the concepts of JS.
 
 ## Screenshot
 
